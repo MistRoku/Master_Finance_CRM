@@ -146,4 +146,4 @@ License
 MIT License. See LICENSE for details.
 Support
 
-For issues, open a GitHub issue or contact support@masterfinance.com. Version: 1.0.0.
+For issues, open a GitHub issue or contact thabangmokgonyana@gmail.com. Version: 1.0.0.
