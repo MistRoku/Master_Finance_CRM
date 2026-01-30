@@ -1,0 +1,11 @@
+{
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "manage_users": "Manage Users",
+    "add_user": "Add User",
+    "transactions": "Transactions",
+    "upload_document": "Upload Document"
+}

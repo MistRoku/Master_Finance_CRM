@@ -1,0 +1,4 @@
+/* Additional styles if needed, but main styles are in public/styles.css */
+/* For example, loading states */
+.loading { opacity: 0.5; pointer-events: none; }
+.error { color: #DC2626; font-weight: bold; }
